@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MyPreferences
+//  MySettings
 //
 //  Created by Charles Konkol on 3/23/15.
 //  Copyright (c) 2015 Rock Valley College. All rights reserved.
